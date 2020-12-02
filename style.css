@@ -1,12 +1,13 @@
-.center {
+
+.centertext {
     text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
 
 h1 {
-    text-align: center;
-    color: red;
+        color: red;
+}
+
+.portfoliocard {
+    background-color: rgb(131, 0, 0);
+    color: white;
 }
