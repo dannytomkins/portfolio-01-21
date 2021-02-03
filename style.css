@@ -1,10 +1,23 @@
-
-.centertext {
-    text-align: center;
+:root {
+    --shadow: rgba(0, 0, 0, 0.65);
+    --light-brown: rgb(168, 138, 99);
+    --brown: rgb(92, 74, 51);
+    --white: rgb(232, 233, 221);
+    --transparent: rgba(255, 255, 255, 0.1);
+    --blue: rgb(79, 62, 233);
 }
 
-h1 {
-        color: red;
+.body-container {
+    background-color: grey;
+}
+
+.main-container {
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+    color: red;
 }
 
 .portfoliocard {
